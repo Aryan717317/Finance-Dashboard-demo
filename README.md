@@ -1,6 +1,7 @@
 # ArthaView - Personal Finance Dashboard 🚀
 
-![ArthaView Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop)
+![ArthaView Dashboard](<img width="2829" height="1500" alt="image" src="https://github.com/user-attachments/assets/d72cddad-32ce-4351-a653-59101520cb00" />
+)
 *(Replace this with a screenshot of your actual dashboard)*
 
 ## 🌟 About
